@@ -96,9 +96,8 @@ CNN · Bidirectional LSTM · CNN-BiLSTM Hybrid
 
 ## 📜 Certifications
 
-- Python Programming — ASAP Kerala ✅
-- MySQL — ASAP Kerala ✅
-- Google Data Analytics Certificate — In progress
+- Python and MySQL Fundamentals — ASAP Kerala ✅
+- Microsoft Power BI Data Analyst Specialization — In progress
 
 ---
 
