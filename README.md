@@ -81,7 +81,7 @@ association rule mining with deep learning for next-product prediction.
 **Algorithms:** ECLAT (27,441 rules) · FP-Growth (2,777 rules) ·
 CNN · Bidirectional LSTM · CNN-BiLSTM Hybrid
 
-🔗 [View Project](https://github.com/craswathy/market-basket-analysis-deep-learning)
+🔗 [View Project](https://github.com/craswathy/market-basket-analysis-deep-learning.git)
 
 ---
 
