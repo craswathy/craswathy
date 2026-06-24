@@ -60,7 +60,7 @@ profit leakage, customer segments, and discount impact.
 **Skills demonstrated:** Data cleaning · SUMIFS · SQL window functions ·
 DAX measures · Statistical validation · Dashboard design
 
-🔗 [View Project](https://github.com/craswathy/retail-sales-analysis)
+🔗 [View Project](https://github.com/craswathy/Retail-Sales-Performance-Analysis-.git)
 
 ---
 
